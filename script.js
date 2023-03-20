@@ -1,14 +1,15 @@
+assignment 4
 var names=new Array();
-names[0]="Raja";
-names[1]="jeeva";
-names[2]="John";
+names[0]="Yaakov";
+names[1]="John";
+names[2]="Jen";
 names[3]="jason";
-names[4]="Hari";
-names[5]="naveen";
-names[6]="ajay";
-names[7]="siva";
-names[8]="dinesh";
-names[9]="arun";
+names[4]="paul";
+names[5]="frank";
+names[6]="larry";
+names[7]="paula";
+names[8]="laura";
+names[9]="jim";
 
 
 for (var i = 0; i < names.length; i++) {
